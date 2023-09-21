@@ -1,7 +1,7 @@
 ---
 title: 'Youtube sin anuncios'
 date: 2023-09
-thumb: ''
+thumb: 'youtubeandroid.png'
 tags:
   - android
   - apks

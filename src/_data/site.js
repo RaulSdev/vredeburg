@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'Cosas que pasan',
+  title: 'Guat Fart',
   description: 'Blog del Rolinski',
   keywords: ['eleventy', 'random', 'blog'],
   url: 'https://vredeburg.netlify.app', // your site url without trailing slash

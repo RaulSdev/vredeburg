@@ -1,15 +1,10 @@
 [
   {
-    "label": "About",
-    "url": "/about"
+    "label": "Home",
+    "url": "/"
   },
   {
-    "label": "Tag List",
+    "label": "Temas",
     "url": "/tags"
-  },
-  {
-    "label": "GitHub",
-    "url": "https://github.com/RaulSdev",
-    "newTab": true
   }
 ]
